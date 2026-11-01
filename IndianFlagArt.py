@@ -1,10 +1,11 @@
 import turtle
 import math
+import time
 
 #colours
 SAFFRON="#FF9933"
 WHITE="#FFFFFF"
-GREEN="#138808"
+GREEN="#723B6B"
 NAVY_BLUE="#000080"
 
 def flag_color(y):
